@@ -1,4 +1,4 @@
-# CBDRobotic-internship
+# CBDRobotic internship
 
 ## Programming Assignments
 
